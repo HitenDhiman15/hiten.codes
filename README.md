@@ -39,4 +39,7 @@ _(Link will be added after deployment)_
 
 ---
 
+## License
+This project is licensed under the [MIT License](./LICENSE).
+
 ⭐ Feel free to star this repository if you like it!
