@@ -68,7 +68,7 @@ const Contact = () => {
             platform, or bring a unique project to life, I'm here to help
           </p>
         </div>
-        <form className="w-full" onSubmit={handleSubmit}>
+        <form className="w-full" action="https://formspree.io/f/mwvvpgyz" method="POST">
           <div className="mb-5">
             <label htmlFor="name" className="feild-label">
               Full Name
