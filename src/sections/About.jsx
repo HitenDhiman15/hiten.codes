@@ -19,8 +19,7 @@ const About = () => {
           <div className="z-10">
             <p className="headtext">Hi, I'm Hiten Dhiman</p>
             <p className="subtext">
-              Over the last 4 years, I developed my frontend and backend dev
-              skills to deliver dynamic and software and web applications.
+              I'm a Computer Engineering student focused on building responsive web apps and scalable backend systems. I enjoy working with the MERN stack and writing clean, maintainable code.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
@@ -102,7 +101,7 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headText">Teck Stack</p>
             <p className="subtext">
-              I specialize in a variety of languages, frameworks, and tools taht
+              I specialize in a variety of languages, frameworks, and tools that
               allow me to build robust and scalable applications
             </p>
           </div>
