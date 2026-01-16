@@ -14,8 +14,17 @@ const Footer = () => {
             <img src={social.icon} className="w-5 h-5" alt={social.name} />
           </a>
         ))}
+        <p className="text-neutral-400 flex items-center gap-2">
+        Email:{""}
+        <a 
+          href="mailto:hitendhiman15@gmail.com"
+          className="text-neutral-200 hover:underline"
+          >
+            hitendhiman15@gmail.com
+          </a>
+        </p>
       </div>
-      <p>© 2025 Hiten Dhiman. All rights reserved.</p>
+      <p>© {new Date().getFullYear()} Hiten Dhiman. All rights reserved.</p>
     </section>
   );
 };
